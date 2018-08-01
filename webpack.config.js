@@ -3,7 +3,7 @@ var webpack = require('webpack');
 
 module.exports = {
     entry: {
-        "normalizeUrl": "./index.js"
+        "normalizeUrl.min": "./index.js"
     },
     output: {
         path: path.resolve(__dirname, 'dist'),
