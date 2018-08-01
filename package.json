@@ -22,7 +22,8 @@
 		"dev": "webpack --progress --colors --watch"
 	},
 	"files": [
-		"index.js"
+		"index.js",
+		"dist"
 	],
 	"keywords": [
 		"normalize",
